@@ -54,7 +54,6 @@ The objective of this project is to answer:
 | Tool | Purpose |
 |------|---------|
 | 🟦 Microsoft Power BI | Dashboard creation, visualization and insights |
-| 🟨 SQL | Data extraction and analytical queries |
 | 📊 Excel | Dataset preparation and exploration |
 | 📐 DAX | Calculated measures and KPIs |
 | 📊 Data Visualization | Interactive reporting |
@@ -413,12 +412,11 @@ The dashboard helps food delivery platforms:
 Install:
 
 - Microsoft Power BI Desktop
-- SQL Database
 - Microsoft Excel
 
 ## Step 2:
 
-Load the dataset into SQL / Power BI.
+Load the dataset in Power BI.
 
 ## Step 3:
 
@@ -436,8 +434,7 @@ Refresh the dataset and explore interactive dashboards.
 
 # ✅ Project Checklist
 
-✔ Dataset Preparation  
-✔ SQL Analysis  
+✔ Dataset Preparation   
 ✔ Data Modeling  
 ✔ Star Schema Design  
 ✔ DAX Measures  
